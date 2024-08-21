@@ -1,0 +1,36 @@
+body{
+    color:white;
+    background: black;
+}
+header{
+    margin: 20px;
+}
+section{
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto {
+    margin-right: 20px;
+}
+.text {
+margin-right: 30px;
+}
+.text2{
+    margin-right: 10px;
+}
+.pt1{
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+   .information{
+    border-bottom:solid 1px white;
+    margin:20px;
+   }
+   .information2{
+    border-bottom:solid 1px white;
+    margin:20px;
+   }
